@@ -34,6 +34,6 @@ Plugin Options: `obfs=http;obfs-host=APP_NAME.herokuapp.com`
 
 ## Client Configuration Examples
 
-![MacOS - ShadowsocksX-NG](https://raw.githubusercontent.com/lafawkes/shadowsocks-obfs/main/assets/ShadowsocksX-NG.png)
+![MacOS - ShadowsocksX-NG](https://raw.githubusercontent.com/gfch68vjhgj/shadowsocks-obfs/main/assets/ShadowsocksX-NG.png)
 
-![iOS - Potatso Lite](https://raw.githubusercontent.com/lafawkes/shadowsocks-obfs/main/assets/PotatsoIOS.jpeg)
+![iOS - Potatso Lite](https://raw.githubusercontent.com/gfch68vjhgj/shadowsocks-obfs/main/assets/PotatsoIOS.jpeg)
